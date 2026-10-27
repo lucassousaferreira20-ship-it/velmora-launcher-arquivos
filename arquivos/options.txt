@@ -1,0 +1,8 @@
+version:3465
+lang:pt_br
+resourcePacks:["vanilla","file/Velmora.zip"]
+incompatibleResourcePacks:[]
+onboardAccessibility:false
+skipMultiplayerWarning:true
+tutorialStep:none
+joinedFirstServer:true
