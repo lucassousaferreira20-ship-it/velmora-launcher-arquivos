@@ -1,5 +1,5 @@
 {
-  "versao": "202610272358",
+  "versao": "202611081853",
   "nome": "Velmora SMP",
   "minecraft": "1.20.1",
   "forge": "47.4.26",
@@ -25,6 +25,20 @@
       "url": "https://edge.forgecdn.net/files/7208/610/createaddition-1.20.1-1.3.3.jar"
     },
     {
+      "caminho": "mods/hexerei-0.4.2.3.jar",
+      "tamanho": 11374032,
+      "nome": "Hexerei",
+      "sha1": "01d67f2c92aecb2e72eba3d37b7571e3ffe7297b",
+      "url": "https://edge.forgecdn.net/files/6314/111/hexerei-0.4.2.3.jar"
+    },
+    {
+      "caminho": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "tamanho": 424035,
+      "nome": "ShatterLib | OctoLib",
+      "sha1": "9eab28baff36942e1c924489e34753df10f40208",
+      "url": "https://edge.forgecdn.net/files/6274/623/OctoLib-FORGE-0.5.0.1%2b1.20.1.jar"
+    },
+    {
       "caminho": "mods/oculus-mc1.20.1-1.8.0.jar",
       "tamanho": 2851119,
       "nome": "Oculus",
@@ -37,6 +51,13 @@
       "nome": "When Dungeons Arise - Forge!",
       "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5",
       "url": "https://edge.forgecdn.net/files/4983/862/DungeonsArise-1.20.x-2.1.58-release.jar"
+    },
+    {
+      "caminho": "mods/Paraglider-forge-20.1.3.jar",
+      "tamanho": 589055,
+      "nome": "Paragliders",
+      "sha1": "51fdf94686fc847515e6de8a6c9fd4dab3466ea5",
+      "url": "https://edge.forgecdn.net/files/5046/69/Paraglider-forge-20.1.3.jar"
     },
     {
       "caminho": "mods/ftb-chunks-forge-2001.3.8.jar",
@@ -60,6 +81,13 @@
       "url": "https://edge.forgecdn.net/files/4923/828/Towns-and-Towers-1.12-Fabric%2bForge.jar"
     },
     {
+      "caminho": "mods/FramedBlocks-9.4.3.jar",
+      "tamanho": 4251314,
+      "nome": "FramedBlocks",
+      "sha1": "740c0feaab75455f32df7e137389f77c83fb490c",
+      "url": "https://edge.forgecdn.net/files/7386/520/FramedBlocks-9.4.3.jar"
+    },
+    {
       "caminho": "mods/cloth-config-11.1.136-forge.jar",
       "tamanho": 1181413,
       "nome": "Cloth Config API (Fabric/Forge/NeoForge)",
@@ -72,6 +100,13 @@
       "nome": "Simply Tooltips",
       "sha1": "6f437b9269a171bf88eb6215f0dfab6e614f9f00",
       "url": "https://edge.forgecdn.net/files/8715/158/SimplyTooltips-forge-0.1.5-1.20.1.jar"
+    },
+    {
+      "caminho": "mods/lionfishapi-3.0.jar",
+      "tamanho": 101931,
+      "nome": "Lionfish API",
+      "sha1": "79d0404f87fa066480b18c844c1e0b1c5f5475f9",
+      "url": "https://edge.forgecdn.net/files/8095/554/lionfishapi-3.0.jar"
     },
     {
       "caminho": "mods/Chunky-1.3.146.jar",
@@ -95,11 +130,39 @@
       "url": "https://edge.forgecdn.net/files/8883/366/fzzy_config-0.7.7%2b1.20.1%2bforge.jar"
     },
     {
+      "caminho": "mods/relics-1.20.1-0.8.0.13.jar",
+      "tamanho": 1521089,
+      "nome": "Relics",
+      "sha1": "940358d190780a9a59a69dd7e75a5e7cf07e4209",
+      "url": "https://edge.forgecdn.net/files/7708/970/relics-1.20.1-0.8.0.13.jar"
+    },
+    {
+      "caminho": "mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "tamanho": 708634,
+      "nome": "Macaw's Fences and Walls",
+      "sha1": "d24bc6e1ba7f04e058db019ae5ca3d10edd9510a",
+      "url": "https://edge.forgecdn.net/files/7308/423/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+    },
+    {
       "caminho": "mods/waystones-forge-1.20.1-14.1.21.jar",
       "tamanho": 536782,
       "nome": "Waystones",
       "sha1": "61952fb248a9689fe46d5ffb223fcc41e31fef1a",
       "url": "https://edge.forgecdn.net/files/8849/482/waystones-forge-1.20.1-14.1.21.jar"
+    },
+    {
+      "caminho": "mods/alshanex_familiars-1.20.1_v4.1.0.jar",
+      "tamanho": 23147233,
+      "nome": "Alshanex's Familiars",
+      "sha1": "05a382db554e70911a63733760240643aca4f18a",
+      "url": "https://edge.forgecdn.net/files/9052/384/alshanex_familiars-1.20.1_v4.1.0.jar"
+    },
+    {
+      "caminho": "mods/createdeco-2.0.3-1.20.1-forge.jar",
+      "tamanho": 3509013,
+      "nome": "Create Deco",
+      "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
+      "url": "https://edge.forgecdn.net/files/6373/226/createdeco-2.0.3-1.20.1-forge.jar"
     },
     {
       "caminho": "mods/structureessentials-1.20.1-5.0.jar",
@@ -144,6 +207,13 @@
       "url": "https://edge.forgecdn.net/files/8887/462/baguettelib-1.20.1-Forge-2.0.7.jar"
     },
     {
+      "caminho": "mods/copycats-3.0.10+mc.1.20.1-forge.jar",
+      "tamanho": 2003713,
+      "nome": "Create: Copycats+",
+      "sha1": "939d4ca4ac42b93c05a5fb92e629fb8cff060dc9",
+      "url": "https://edge.forgecdn.net/files/8822/431/copycats-3.0.10%2bmc.1.20.1-forge.jar"
+    },
+    {
       "caminho": "mods/skinlayers3d-forge-1.11.3-mc1.20.1.jar",
       "tamanho": 2093560,
       "nome": "Skin Layers 3D",
@@ -158,11 +228,25 @@
       "url": "https://edge.forgecdn.net/files/7815/705/mowziesmobs-1.8.2.jar"
     },
     {
+      "caminho": "mods/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+      "tamanho": 812573,
+      "nome": "Macaw's Paths and Pavings",
+      "sha1": "821e5f406afa53a5c1d3346a20efb0ec7be97997",
+      "url": "https://edge.forgecdn.net/files/7029/554/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar"
+    },
+    {
       "caminho": "mods/Enhanced-Celestials-forge-1.20.1-5.0.3.3.jar",
       "tamanho": 1638200,
       "nome": "Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons",
       "sha1": "3a7ac29b6e3561b34fd68d9c140de89319462213",
       "url": "https://edge.forgecdn.net/files/8592/325/Enhanced-Celestials-forge-1.20.1-5.0.3.3.jar"
+    },
+    {
+      "caminho": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "tamanho": 7111059,
+      "nome": "Handcrafted",
+      "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f",
+      "url": "https://edge.forgecdn.net/files/5118/729/handcrafted-forge-1.20.1-3.0.6.jar"
     },
     {
       "caminho": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -177,6 +261,13 @@
       "nome": "ModernFix",
       "sha1": "ba76615cdaff6de931c2e33c71f0b05deb1dad41",
       "url": "https://edge.forgecdn.net/files/9032/601/modernfix-forge-5.27.85%2bmc1.20.1.jar"
+    },
+    {
+      "caminho": "mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "tamanho": 604510,
+      "nome": "Macaw's Trapdoors",
+      "sha1": "1b3b4b40041346b19bc9ab280b288a9f6b77b513",
+      "url": "https://edge.forgecdn.net/files/7256/186/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
     },
     {
       "caminho": "mods/xaerominimap-forge-1.20.1-26.6.0.jar",
@@ -198,6 +289,13 @@
       "nome": "Exposure",
       "sha1": "b1ec92eeafdc97e88e0baacd5d89f4c1f89a4bbc",
       "url": "https://edge.forgecdn.net/files/6655/718/exposure-1.20.1-1.7.16-forge.jar"
+    },
+    {
+      "caminho": "mods/mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "tamanho": 1864023,
+      "nome": "Macaw's Roofs",
+      "sha1": "2b02beb2bd177aa695dc6fc030fc3bb230ca96b1",
+      "url": "https://edge.forgecdn.net/files/6494/466/mcw-roofs-2.3.2-mc1.20.1forge.jar"
     },
     {
       "caminho": "mods/CustomPlayerModels-1.20-0.6.27a.jar",
@@ -228,6 +326,13 @@
       "url": "https://edge.forgecdn.net/files/7963/208/dummmmmmy-1.20-2.0.12-forge.jar"
     },
     {
+      "caminho": "mods/createbigcannons-5.11.4-mc.1.20.1-forge.jar",
+      "tamanho": 4058306,
+      "nome": "Create Big Cannons",
+      "sha1": "d9be0ace572fe54be904da1bb0b0cc8711db3b70",
+      "url": "https://edge.forgecdn.net/files/8169/547/createbigcannons-5.11.4-mc.1.20.1-forge.jar"
+    },
+    {
       "caminho": "mods/cupboard-1.20.1-4.2.jar",
       "tamanho": 33422,
       "nome": "Cupboard",
@@ -247,6 +352,13 @@
       "nome": "Clumps",
       "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
       "url": "https://edge.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar"
+    },
+    {
+      "caminho": "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "tamanho": 2174615,
+      "nome": "Macaw's Furniture",
+      "sha1": "c05189646bbde5c0d4486b93de0d707115f8445c",
+      "url": "https://edge.forgecdn.net/files/7255/630/mcw-furniture-3.4.1-mc1.20.1forge.jar"
     },
     {
       "caminho": "mods/ftb-teams-forge-2001.3.2.jar",
@@ -312,6 +424,13 @@
       "url": "https://edge.forgecdn.net/files/8778/11/jei-1.20.1-forge-15.56.0.205.jar"
     },
     {
+      "caminho": "mods/L_Enders_Cataclysm-3.31.jar",
+      "tamanho": 73916104,
+      "nome": "L_Ender 's Cataclysm",
+      "sha1": "4f1165cb39521292e826b471b4808bb89f0f4f3f",
+      "url": "https://edge.forgecdn.net/files/8246/47/L_Enders_Cataclysm-3.31.jar"
+    },
+    {
       "caminho": "mods/kotlinforforge-4.12.0-all.jar",
       "tamanho": 7442998,
       "nome": "Kotlin for Forge",
@@ -333,6 +452,13 @@
       "url": "https://edge.forgecdn.net/files/7551/331/puffish_attributes-0.8.2-1.20-forge.jar"
     },
     {
+      "caminho": "mods/mcw-lights-1.1.5-mc1.20.1forge.jar",
+      "tamanho": 547779,
+      "nome": "Macaw's Lights and Lamps",
+      "sha1": "76dde38745ad436f2784f71939dc0941d7d51c6e",
+      "url": "https://edge.forgecdn.net/files/7304/117/mcw-lights-1.1.5-mc1.20.1forge.jar"
+    },
+    {
       "caminho": "mods/sophisticatedstorage-1.20.1-1.5.1.2158.jar",
       "tamanho": 1919182,
       "nome": "Sophisticated Storage",
@@ -345,6 +471,27 @@
       "nome": "spark",
       "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
       "url": "https://edge.forgecdn.net/files/4738/952/spark-1.10.53-forge.jar"
+    },
+    {
+      "caminho": "mods/familiarslib-1.20.1-1.9.jar",
+      "tamanho": 338429,
+      "nome": "FamiliarsLib",
+      "sha1": "5c31870aed9bdaecafd332c66883fd17342d81c0",
+      "url": "https://edge.forgecdn.net/files/9052/376/familiarslib-1.20.1-1.9.jar"
+    },
+    {
+      "caminho": "mods/eidolon_repraised-1.20.1-0.3.13.jar",
+      "tamanho": 4003041,
+      "nome": "Eidolon : Repraised",
+      "sha1": "323054485b7d511da2dfa7db71276f44794d1d24",
+      "url": "https://edge.forgecdn.net/files/8723/993/eidolon_repraised-1.20.1-0.3.13.jar"
+    },
+    {
+      "caminho": "mods/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "tamanho": 12430237,
+      "nome": "Ars Nouveau",
+      "sha1": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170",
+      "url": "https://edge.forgecdn.net/files/6688/854/ars_nouveau-1.20.1-4.12.7-all.jar"
     },
     {
       "caminho": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
@@ -370,6 +517,13 @@
       "url": "https://edge.forgecdn.net/files/7178/761/create-1.20.1-6.0.8.jar"
     },
     {
+      "caminho": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "tamanho": 432753,
+      "nome": "Resourceful Lib",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "url": "https://edge.forgecdn.net/files/5659/871/resourcefullib-forge-1.20.1-2.1.29.jar"
+    },
+    {
       "caminho": "mods/Steam_Rails-1.7.3+forge-mc1.20.1.jar",
       "tamanho": 17042037,
       "nome": "Create: Steam 'n' Rails",
@@ -389,6 +543,20 @@
       "nome": "Xaero's World Map",
       "sha1": "6715c1d3758a3805589d82c41dc581537fe185cd",
       "url": "https://edge.forgecdn.net/files/9067/273/xaeroworldmap-forge-1.20.1-1.47.0.jar"
+    },
+    {
+      "caminho": "mods/chipped-forge-1.20.1-3.0.7.jar",
+      "tamanho": 15060263,
+      "nome": "Chipped",
+      "sha1": "25ee2a0846059d8f21d28b94b7e0229b60cb5499",
+      "url": "https://edge.forgecdn.net/files/5813/138/chipped-forge-1.20.1-3.0.7.jar"
+    },
+    {
+      "caminho": "mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "tamanho": 1320692,
+      "nome": "Macaw's Windows",
+      "sha1": "214da89b2153d496343bde8626283975e358edbd",
+      "url": "https://edge.forgecdn.net/files/7317/714/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
     },
     {
       "caminho": "mods/cristellib-1.1.6-forge.jar",
@@ -419,11 +587,32 @@
       "url": "https://edge.forgecdn.net/files/7287/334/bettercombat-forge-1.9.0%2b1.20.1.jar"
     },
     {
+      "caminho": "mods/traveloptics-7.1.0-1.20.1.jar",
+      "tamanho": 41664084,
+      "nome": "T.O Magic 'n Extras - Iron's Spells Addon",
+      "sha1": "9d6d440c8375fcc08449be69890ff3e068e88c2b",
+      "url": "https://edge.forgecdn.net/files/9410/896/traveloptics-7.1.0-1.20.1.jar"
+    },
+    {
       "caminho": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "tamanho": 1320675,
       "nome": "Embeddium",
       "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
       "url": "https://edge.forgecdn.net/files/5681/725/embeddium-0.3.31%2bmc1.20.1.jar"
+    },
+    {
+      "caminho": "mods/athena-forge-1.20.1-3.1.2.jar",
+      "tamanho": 91808,
+      "nome": "Athena",
+      "sha1": "2acee24454af859988a691f0506271a465f68f7b",
+      "url": "https://edge.forgecdn.net/files/5176/879/athena-forge-1.20.1-3.1.2.jar"
+    },
+    {
+      "caminho": "mods/create_enchantment_industry-1.4.1-for-create-6.0.8.jar",
+      "tamanho": 503399,
+      "nome": "Create: Enchantment Industry",
+      "sha1": "253b76be7c97bd658d709c0a7418b8bca43c1221",
+      "url": "https://edge.forgecdn.net/files/8567/881/create_enchantment_industry-1.4.1-for-create-6.0.8.jar"
     },
     {
       "caminho": "mods/FarmersDelight-1.20.1-1.3.4.jar",
@@ -433,11 +622,25 @@
       "url": "https://edge.forgecdn.net/files/8765/179/FarmersDelight-1.20.1-1.3.4.jar"
     },
     {
+      "caminho": "mods/bibliocraft-1.20.1-1.3.1.jar",
+      "tamanho": 6245089,
+      "nome": "BiblioCraft Legacy (Expanded)",
+      "sha1": "368a4ec014a2e380392053440d3ceff17adc66fe",
+      "url": "https://edge.forgecdn.net/files/7860/99/bibliocraft-1.20.1-1.3.1.jar"
+    },
+    {
       "caminho": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
       "tamanho": 671605,
       "nome": "Pehkui",
       "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
       "url": "https://edge.forgecdn.net/files/5393/101/Pehkui-3.8.2%2b1.20.1-forge.jar"
+    },
+    {
+      "caminho": "mods/ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar",
+      "tamanho": 78625,
+      "nome": "Ritchie's Projectile Library",
+      "sha1": "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa",
+      "url": "https://edge.forgecdn.net/files/7292/523/ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar"
     },
     {
       "caminho": "mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
@@ -468,6 +671,13 @@
       "url": "https://edge.forgecdn.net/files/7296/591/Spooklementary_v2.0.4.zip",
       "grupo": "shaders",
       "politica": "seAusente"
+    },
+    {
+      "caminho": "mods/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+      "tamanho": 554055,
+      "nome": "Macaw's Stairs",
+      "sha1": "8f3a8271e43b53171c3a4d4827415bebd06775d9",
+      "url": "https://edge.forgecdn.net/files/7317/580/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
     },
     {
       "caminho": "mods/sophisticatedbackpacks-1.20.1-3.26.9.2194.jar",
@@ -531,6 +741,41 @@
       "nome": "Supplementaries",
       "sha1": "326d65a29981de28016e3828370d68a8f63e1798",
       "url": "https://edge.forgecdn.net/files/7884/611/supplementaries-1.20-3.1.43-forge.jar"
+    },
+    {
+      "caminho": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "tamanho": 693579,
+      "nome": "Macaw's Bridges",
+      "sha1": "24f30313977ec61520a2adab321188b51c208d16",
+      "url": "https://edge.forgecdn.net/files/7627/954/mcw-bridges-3.1.2-mc1.20.1forge.jar"
+    },
+    {
+      "caminho": "mods/irons_spellbooks_tweaks-1.5.0.jar",
+      "tamanho": 86330,
+      "nome": "Iron's Spellbooks Tweaks",
+      "sha1": "38a2291bef81c462b86f87080708e499c9d49f7d",
+      "url": "https://edge.forgecdn.net/files/8204/429/irons_spellbooks_tweaks-1.5.0.jar"
+    },
+    {
+      "caminho": "mods/gtbcs_spell_lib-2.2.0-1.20.1.jar",
+      "tamanho": 293807,
+      "nome": "GTBC's SpellLib/API",
+      "sha1": "753917963574a7087fa10999b7646e2efe5772b2",
+      "url": "https://edge.forgecdn.net/files/8824/662/gtbcs_spell_lib-2.2.0-1.20.1.jar"
+    },
+    {
+      "caminho": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "tamanho": 1246753,
+      "nome": "Macaw's Doors",
+      "sha1": "fe6a9eb2fbc78300a6286fd25854c9f087e689a6",
+      "url": "https://edge.forgecdn.net/files/7618/714/mcw-doors-1.1.5-mc1.20.1forge.jar"
+    },
+    {
+      "caminho": "mods/alexscaves-2.0.2.jar",
+      "tamanho": 74871657,
+      "nome": "Alex's Caves",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+      "url": "https://edge.forgecdn.net/files/5848/216/alexscaves-2.0.2.jar"
     },
     {
       "caminho": "config/alexsmobs.toml",
